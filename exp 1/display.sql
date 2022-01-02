@@ -1,0 +1,9 @@
+-- set serveroutput on;
+declare
+
+message varchar2(20) := 'THIS IS A MESSAGE';
+
+begin
+  dbms_output.put_line(message);
+end;
+/
