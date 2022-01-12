@@ -1,7 +1,7 @@
 declare
 mark integer;
 begin
-    mark := 53;
+    mark := &mark;
 
     dbms_output.put('The Grade Corresponding to '|| mark || ' is: ');
     if (mark >= 90) then
@@ -21,3 +21,13 @@ begin
     end if;
 end;
 /
+
+-- Enter value for mark: 95
+-- old   4:     mark := &mark;
+-- new   4:     mark := 95;
+-- The Grade Corresponding to 95 is: A+
+
+-- Enter value for mark: 56
+-- old   4:     mark := &mark;
+-- new   4:     mark := 56;
+-- The Grade Corresponding to 56 is: C+

@@ -1,4 +1,7 @@
+-- drop table staff;
 -- create table staff(id integer,salary integer);
+-- insert into staff (id,salary) values (1,1000);
+
 declare
     staff_id integer;
     n        integer;
@@ -30,3 +33,19 @@ begin
         DBMS_OUTPUT.PUT_LINE('UPDATED SALARY :' || salary);
     end if;
 end;
+/
+
+-- select * from staff;
+
+--         ID     SALARY
+-- ---------- ----------
+--          1       1000
+
+-- Enter value for staff_id: 1
+-- old  24:     staff_id := &staff_id;
+-- new  24:     staff_id := 1;
+-- UPDATED SALARY :1200
+
+--         ID     SALARY
+-- ---------- ----------
+--          1       1200

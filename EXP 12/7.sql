@@ -29,3 +29,17 @@ BEGIN
     END IF;
 END;
 /                     
+
+
+-- Enter value for num: 1001
+-- old  22:     num := &num;
+-- new  22:     num := 1001;
+-- Reverse of the number is: 1001
+-- The number 1001 is PALINDROME.
+
+
+-- Enter value for num: 1000
+-- old  22:     num := &num;
+-- new  22:     num := 1000;
+-- Reverse of the number is: 1
+-- The number 1000 is not PALINDROME.

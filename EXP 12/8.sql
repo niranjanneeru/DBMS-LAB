@@ -1,3 +1,4 @@
+
 DECLARE
     n    NUMBER;
     s    NUMBER;
@@ -32,3 +33,13 @@ BEGIN
     END IF;
 END;
 /
+
+-- Enter value for n: 723
+-- old  26:     n := &n;
+-- new  26:     n := 723;
+-- No,The number 723 is NOT an Armstrong number
+
+-- Enter value for n: 407
+-- old  26:     n := &n;
+-- new  26:     n := 407;
+-- Yes,The number 407 is an Armstrong number

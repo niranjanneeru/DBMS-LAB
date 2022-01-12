@@ -1,3 +1,7 @@
+-- drop table staff;
+-- create table staff(id integer,salary integer);
+-- insert into staff (id,salary) values (1,1000)
+
 DECLARE
     staff_id INTEGER;
     n        INTEGER;
@@ -27,3 +31,10 @@ BEGIN
         (staff_id, n);
 END;
 /
+
+-- select * from staff;
+
+-- Enter value for staff_id: 1
+-- old  21:     staff_id := &staff_id;
+-- new  21:     staff_id := 1;
+-- Staff with staff_id 1 deleted successfully!

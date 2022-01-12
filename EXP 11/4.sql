@@ -13,3 +13,8 @@ begin
   dbms_output.put_line('Factorial of ' ||fact );
 end;
 /
+
+-- Enter value for n: 10
+-- old   7:   n:= & n;
+-- new   7:   n:= 10;
+-- Factorial of 3628800
