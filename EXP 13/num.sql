@@ -3,7 +3,7 @@ declare
     out number;
 
 begin
-  dbms_output.put_line('--------------------------')
+  dbms_output.put_line('--------------------------');
   out := custom.fact(n);
   dbms_output.put_line(out);
 end;

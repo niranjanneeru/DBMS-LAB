@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/exp 1/8.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 1/conditions.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 1/display.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 1/even_or_odd.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 1/fact.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 1/mul3.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 1/sqcu.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 1/varraymarksum.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/10.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/5.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/6.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/7.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/8.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/9.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/bindec.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/min.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/roots.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/exp 2/salary.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/EXP 13/area-body.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/EXP 13/area-def.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/EXP 13/area.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/EXP 13/num-body.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/EXP 13/num-def.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/EXP 13/num.sql" dialect="OracleSqlPlus" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
