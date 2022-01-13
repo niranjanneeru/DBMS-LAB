@@ -11,5 +11,5 @@ begin
                 cnt := cnt + 1;
             end if;
         end loop;
-    DBMS_OUTPUT.PUT_LINE('No. of Records with Grae A = ' || cnt);
+    DBMS_OUTPUT.PUT_LINE('No. of Records with Grade A = ' || cnt);
 end ;
