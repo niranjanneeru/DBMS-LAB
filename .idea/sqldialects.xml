@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/EXP 13/area-body.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 13/area-def.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 13/area.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 13/num-body.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 13/num-def.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 13/num.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 14/1.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 14/2.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 14/3.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 14/4.sql" dialect="OracleSqlPlus" />
-    <file url="file://$PROJECT_DIR$/EXP 14/5.sql" dialect="OracleSqlPlus" />
-    <file url="PROJECT" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/EXP 14/6.sql" dialect="OracleSqlPlus" />
+    <file url="PROJECT" dialect="OracleSqlPlus" />
   </component>
 </project>
